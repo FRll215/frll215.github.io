@@ -1,5 +1,6 @@
 html,body{
     background-image: url(./images/an3.jpg);
+    background-size: 100% auto;
 }
 .box{
 width: 1200px;
